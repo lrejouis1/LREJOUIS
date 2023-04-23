@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"javaFXControllers","l":"HomeController"},{"p":"application","l":"JUnitProgram"},{"p":"application","l":"Main"},{"p":"application","l":"Occurences"}];updateSearchResults();
